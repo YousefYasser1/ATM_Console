@@ -1,0 +1,15 @@
+D:\Back-end\ATM\ATM_Console\ATM_Console\bin\Debug\net7.0\ATM_Console.exe
+D:\Back-end\ATM\ATM_Console\ATM_Console\bin\Debug\net7.0\ATM_Console.deps.json
+D:\Back-end\ATM\ATM_Console\ATM_Console\bin\Debug\net7.0\ATM_Console.runtimeconfig.json
+D:\Back-end\ATM\ATM_Console\ATM_Console\bin\Debug\net7.0\ATM_Console.dll
+D:\Back-end\ATM\ATM_Console\ATM_Console\bin\Debug\net7.0\ATM_Console.pdb
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.csproj.AssemblyReference.cache
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.AssemblyInfoInputs.cache
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.AssemblyInfo.cs
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.csproj.CoreCompileInputs.cache
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.dll
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\refint\ATM_Console.dll
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.pdb
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ATM_Console.genruntimeconfig.cache
+D:\Back-end\ATM\ATM_Console\ATM_Console\obj\Debug\net7.0\ref\ATM_Console.dll
